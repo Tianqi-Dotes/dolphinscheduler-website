@@ -29,7 +29,7 @@ Shell task used to create a shell task type and execute a series of shell script
 
 ### Simply Print
 
-We make an example simulate from a common task which runs by one command. The example is to print one line in the log file, as shown in the following figure:
+We make an example simulate from a common task which runs by one command. The example is to print one line in the log file, as shown in the following figure:cc
 "This is a demo of shell task".
 
 ![demo-shell-simple](/img/tasks/demo/shell.jpg)
