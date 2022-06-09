@@ -12,7 +12,7 @@ Shell task used to create a shell task type and execute a series of shell script
 ## Task Parameter
 
 - Node name: The node name in a workflow definition is unique.
-- Run flag: Identifies whether this node schedules normally, if it does not need to execute, select the `prohibition execution`.
+- Run flag: Identifies whether this node schedules normally, if it does not need to execute, select the `prohibition execution`.aaa
 - Descriptive information: Describe the function of the node.
 - Task priority: When the number of worker threads is insufficient, execute in the order of priority from high to low, and tasks with the same priority will execute in a first-in first-out order.
 - Worker grouping: Assign tasks to the machines of the worker group to execute. If `Default` is selected, randomly select a worker machine for execution.
